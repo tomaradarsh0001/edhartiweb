@@ -1,0 +1,2 @@
+/* Minified by Diwakar Sinha at 01-01-2025 */
+.loader{display:none;border:8px solid #f3f3f3;border-top:8px solid #116d6e;border-radius:50%;width:30px;height:30px;animation:1s linear infinite spin;position:absolute;top:50%;margin-top:-15px;right:10px}@keyframes spin{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}
