@@ -297,7 +297,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
     <!-- External JS libraries -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> --}}
+    <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
     <script src="{{ asset('assets/frontend/assets/js/popper.min.js') }}"></script>
     <script src="{{ asset('assets/frontend/assets/js/bootstrap.bundle.min.js') }}"></script>
 
